@@ -1,0 +1,6 @@
+﻿token= NTg4NzU3MzcyMDY4MDM2NjIx.XQzD5A.C3WzQqfMiAMwFr0PHF1aVQFXsL0
+owner= 405683225445531648
+prefix= S
+game= Splay
+stayinchannel=true
+songinstatus=false
